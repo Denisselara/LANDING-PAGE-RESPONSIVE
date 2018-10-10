@@ -11,8 +11,23 @@ header{
 .jumbotron{
 }
 
-.carousel-caption{
-  
+.carousel-inner{
+
+}
+
+.item{
+  height:60vh;
+  width: 100%;
+  overflow: hidden;
+
+}
+
+.img.size{
+  width: 100%;
+}
+
+.item img{
+  width: 100%;
 }
 
 .container-botones{
@@ -45,8 +60,8 @@ header{
 }
 
 .padding-leftright{
-  padding-left: 5vh;
-  padding-right: 5vh;
+  padding-left: 15vh;
+  padding-right: 15vh;
 }
 
 .center{
