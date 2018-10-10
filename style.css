@@ -1,0 +1,89 @@
+body{
+  margin:0px;
+  font-family: sans-serif;
+  font-size: 12px;
+}
+
+header{
+  width: 100%;
+}
+
+.jumbotron{
+  background-image: url("images_cv/bg.jpeg");
+    Background-size: cover;
+}
+
+
+
+.container-botones{
+  text-align: center;
+}
+
+.Album-text{
+  color: white;
+}
+
+.jumbotron p{
+  color: white;
+  font-size: 1em;
+  text-align: center;
+  padding-top: 2vh;
+}
+
+.Album-text h1{
+  font-size: 3.5em;
+  text-align: center;
+  font-weight: lighter;
+  line-height:1.5em;
+  padding-left: 30px;
+  padding-right: 30px;
+
+}
+
+.background-none{
+  background-color: none;
+}
+
+.padding-leftright{
+  padding-left: 5vh;
+  padding-right: 5vh;
+}
+
+.center{
+ margin-left: auto;
+ margin-right: auto;
+ text-align: center;
+}
+
+.margin-bottom{
+  margin-bottom: 1.5vh;
+}
+
+.imagen{
+  width:50%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.solicita{
+  background-color: #fafafa;
+  padding-top: 2vh;
+  padding-bottom: 2vh;
+  border-top: solid 0.2vh silver;
+  border-bottom: solid 0.2vh silver;
+}
+
+.background-black{
+  background-color: black;
+  color: white;
+}
+
+.padding-topbottom{
+padding-top: 3vh;
+padding-bottom: 3vh;
+}
+
+.img-logonav{
+  width: 50%;
+}
